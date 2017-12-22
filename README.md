@@ -22,7 +22,7 @@ This project allows delivery drivers to track how much money they are making on 
 ## How This Was Made
 
 ![HTML](https://img.shields.io/badge/Tech-HTML-lightgrey.svg)
-![GS](https://img.shields.io/badge/Tech-Google Script-blue.svg)
+![GS](https://img.shields.io/badge/Tech-Google%20Script-blue.svg)
 
 **Google Apps Script:** More Information can be found _[here](https://www.google.com/script/start/)_.
 
